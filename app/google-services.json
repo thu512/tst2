@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "381109141667",
+    "firebase_url": "https://testgit-4fe8f.firebaseio.com",
+    "project_id": "testgit-4fe8f",
+    "storage_bucket": "testgit-4fe8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381109141667:android:bca4a80e99999c84",
+        "android_client_info": {
+          "package_name": "com.changjoo.testgit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381109141667-sjlvri7p31tqc82vq38effevc43hrj7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe3GKMm16KISkiH8UpkSnK-rjhLR95PfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
